@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... SQL Projects   
 - 📫 How to reach me ... telegram https://t.me/RohitGanjoo LinkedIn in/rohit-ganjoo-data-analytics
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I brilliant at cracking Jokes
+- ⚡ Fun fact: ... I am brilliant at cracking Jokes
 
 <!---
 Rohit-Ganjoo/Rohit-Ganjoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
