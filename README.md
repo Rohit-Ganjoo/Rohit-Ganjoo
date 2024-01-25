@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... Upskilling my self in the field of data 
 - 🌱 I’m currently learning ... Advance SQL and Machine learning 
 - 💞️ I’m looking to collaborate on ... SQL Projects   
-- 📫 How to reach me ... telegram https://t.me/RohitGanjoo LinkedIn in/rohit-ganjoo-data-analytics
+- 📫 How to reach me ... telegram https://t.me/RohitGanjoo
+- LinkedIn https://www.linkedin.com/in/Rohit-Ganjoo-Data-Analytics
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am brilliant at cracking Jokes
 
